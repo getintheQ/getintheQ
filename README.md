@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Khiw Nitithadachot and I'm an Engineering Simulation Expert who passionate about LLM Technology<br><br>🚀 Your Future Computer Vision/LLM Engineer 🚀</h2>
+<h2 align="left">Hi 👋! <br>My name is Khiw Nitithadachot and I'm an FEA/ CFD Spacialist who passionate about LLM Technology<br><br>🚀 Your Future Computer Vision/LLM Engineer 🚀</h2>
 
 ###
 
